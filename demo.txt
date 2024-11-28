@@ -1,2 +1,1 @@
 name=NeoTech
-country=india
